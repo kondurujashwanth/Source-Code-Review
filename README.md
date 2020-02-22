@@ -6,6 +6,8 @@ In PPT format available here [Slideshare](https://www.slideshare.net/KonduruJash
 
 # Infosecgirls Meetup
 Infosecgirls is a community for women passionate about information security. #infosecgirls @inforsecgirls
+[Meetup Link](https://www.meetup.com/WoSEC-India-Women-of-Security/events/268575753/)
+
 # Want me to speak?
 
 If you want me to speak at your conference/meetup/all-night rave, you might want to know what I’m interested in talking about first. A non-exhaustive list:
