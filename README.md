@@ -5,7 +5,7 @@ This is a presentation I held at "Source Code Review" - InfoSecGirls and WoSec M
 In PPT format available here [Slideshare](https://www.slideshare.net/KonduruJashwanth1/secure-source-code-info-secgirls-and-wosec-meet-hyderabad)
 
 # Code
-Vulnerable Application : [Code](https://github.com/kondurujashwanth/Source-Code-Review/tree/master/Code Review - Sample Code)
+Vulnerable Application : [Code](https://github.com/kondurujashwanth/Source-Code-Review/tree/master/Code%20Review%20-%20Sample%20Code)
 
 # Infosecgirls Meetup
 Infosecgirls is a community for women passionate about information security. #infosecgirls @inforsecgirls
